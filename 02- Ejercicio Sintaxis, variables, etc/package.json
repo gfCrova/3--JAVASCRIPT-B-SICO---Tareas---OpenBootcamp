@@ -1,0 +1,16 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "Ejercicio 2 OB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OpenBootcamp",
+    "NodeJs",
+    "Javascript"
+  ],
+  "author": "Gian Franco Crova",
+  "license": "ISC"
+}
