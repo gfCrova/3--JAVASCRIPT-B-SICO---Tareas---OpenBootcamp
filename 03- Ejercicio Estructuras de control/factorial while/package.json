@@ -1,0 +1,16 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "Ejercicio 3 OB factorial while ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OpenBootcamp",
+    "Javascript",
+    "While"
+  ],
+  "author": "Gian Franco Crova",
+  "license": "ISC"
+}
