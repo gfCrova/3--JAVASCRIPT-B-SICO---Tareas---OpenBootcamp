@@ -1,0 +1,16 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "Ejecicio 4 OB Cadenas de texto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OpenBootcamp",
+    "Javascript",
+    "Strings"
+  ],
+  "author": "Gian Franco Crova",
+  "license": "ISC"
+}
