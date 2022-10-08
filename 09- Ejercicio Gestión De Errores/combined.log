@@ -1,0 +1,19 @@
+{"level":"info","message":"Esto es un error: undefined","service":"user-service"}
+{"level":"info","message":"Esto es un error: undefined","service":"user-service"}
+{"level":"warn","message":"Esto es un error: undefined","service":"user-service"}
+{"level":"error","message":"Esto es un error: undefined","service":"user-service"}
+{"level":"info","message":"Esto es un mensaje de Info: undefined","service":"user-service"}
+{"level":"warn","message":"Esto es un mensaje de Warn: undefined","service":"user-service"}
+{"level":"error","message":"Esto es un mensaje de Error: undefined","service":"user-service"}
+{"level":"info","message":"Esto es un mensaje de Info: undefined","service":"user-service"}
+{"level":"warn","message":"Esto es un mensaje de Warn: undefined","service":"user-service"}
+{"level":"error","message":"Esto es un mensaje de Error: undefined","service":"user-service"}
+{"level":"info","message":"Esto es un mensaje de Info: undefined","service":"user-service"}
+{"level":"warn","message":"Esto es un mensaje de Warn: undefined","service":"user-service"}
+{"level":"error","message":"Esto es un mensaje de Error: undefined","service":"user-service"}
+{"level":"info","message":"Esto es un mensaje de Info: undefined","service":"user-service"}
+{"level":"warn","message":"Esto es un mensaje de Warn: undefined","service":"user-service"}
+{"level":"error","message":"Esto es un mensaje de Error: undefined","service":"user-service"}
+{"level":"info","message":"Esto es un mensaje de Info: undefined","service":"user-service"}
+{"level":"warn","message":"Esto es un mensaje de Warn: undefined","service":"user-service"}
+{"level":"error","message":"Esto es un mensaje de Error: undefined","service":"user-service"}
